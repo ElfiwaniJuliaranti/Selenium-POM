@@ -43,4 +43,5 @@ public class loginStep extends BrowserDriver {
                 ExpectedConditions.visibilityOfElementLocated(By.xpath("//span[@class='title'][contains(text(),'Products')]"))
         );
     }
+
 }
